@@ -1,0 +1,23 @@
+{
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    "editor.wordBasedSuggestions": "off",
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.inlineSuggest.enabled": false,
+    "editor.parameterHints.enabled": false,
+    "github.copilot.inlineSuggest.enable": false,
+    "editor.inlayHints.enabled": "off",
+    "dart.closingLabels": false,
+    "editor.showUnused": false,
+    "dart.codeLens": {
+        "mainCodeLens": false,
+        "testCodeLens": false
+    },
+    "editor.suggest.preview": false,
+    "editor.suggest.showSnippets": false,
+    "editor.codeLens": false,
+    "gitlens.currentLine.enabled": false
+}
