@@ -44,6 +44,10 @@ else
 
 switch - case is also similar
 
+<<<<<<< HEAD
 4. loops
 
 </pre>
+=======
+4. loops
+>>>>>>> a251e9f (add detailed explanations for list operations and control structures in README)
