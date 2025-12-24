@@ -13,7 +13,7 @@ string - stdin.readLineSync();
 
 to insert - l.add(); // just like push_back
 check if exists - l.constains(); // checks if exists
-access / modify - same as others
+access / modify - same as others <br>
 delete - l.remove(); // only pass the element (not index)
 find index - l.indexOf(); // -1 if does not exists
 length - l.length
