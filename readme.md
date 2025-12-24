@@ -13,12 +13,37 @@ string - stdin.readLineSync();
 1. List of int,string,double etc
 
 to insert - l.add(); // just like push_back
+
 check if exists - l.constains(); // checks if exists
-access / modify - same as others
+
+access / modify - same as others <br>
+
 delete - l.remove(); // only pass the element (not index)
 find index - l.indexOf(); // -1 if does not exists
+
 length - l.length
 
-2. Functions
+2. Functions - same as other languages
+
+return_type function_Name()
+{
+    // statements
+    return;
+} // semicolor is not required
+
+3. Conditional Statement - same
+
+if (condition)
+{
+
+}
+else
+{
+
+}
+
+switch - case is also similar
+
+4. loops
 
 </pre>
