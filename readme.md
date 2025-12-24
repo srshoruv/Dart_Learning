@@ -1,3 +1,4 @@
+<pre>
 So this is the first step of learning dart language. So I am learning it from YouTube channel.
 
 Today is 20th December 2025, Sunday. 7:58 PM
@@ -13,9 +14,11 @@ string - stdin.readLineSync();
 
 to insert - l.add(); // just like push_back
 check if exists - l.constains(); // checks if exists
-access / modify - same as others <br>
+access / modify - same as others
 delete - l.remove(); // only pass the element (not index)
 find index - l.indexOf(); // -1 if does not exists
 length - l.length
 
 2. Functions
+
+</pre>
