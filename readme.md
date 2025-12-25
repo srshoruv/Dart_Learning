@@ -16,7 +16,7 @@ to insert - l.add(); // just like push_back
 
 check if exists - l.constains(); // checks if exists
 
-access / modify - same as others <br>
+access / modify - same as others
 
 delete - l.remove(); // only pass the element (not index)
 find index - l.indexOf(); // -1 if does not exists
@@ -44,10 +44,7 @@ else
 
 switch - case is also similar
 
-<<<<<<< HEAD
+
 4. loops
 
 </pre>
-=======
-4. loops
->>>>>>> a251e9f (add detailed explanations for list operations and control structures in README)
