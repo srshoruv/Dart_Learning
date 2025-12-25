@@ -45,6 +45,17 @@ else
 switch - case is also similar
 
 
-4. loops
+4. For loops & While loops are same as other language
+
+5. For (in) loops - similar to for each loop but slightly different syntax
+
+for (int num in numbers)
+{
+    print(num);
+}
+
+6. Comments are the same 
+
+
 
 </pre>
